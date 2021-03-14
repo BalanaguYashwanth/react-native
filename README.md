@@ -6,3 +6,5 @@
         justifyContent:'center', 
         alignItems:'center',
     }
+# Navigator
+https://reactnavigation.org/docs/material-bottom-tab-navigator
