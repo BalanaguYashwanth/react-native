@@ -6,5 +6,6 @@
         justifyContent:'center', 
         alignItems:'center',
     }
-# React Navigator
+# References:-
 https://reactnavigation.org/docs/material-bottom-tab-navigator
+https://github.com/oblador/react-native-vector-icons/blob/master/glyphmaps/MaterialCommunityIcons.json
